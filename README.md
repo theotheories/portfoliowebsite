@@ -1,4 +1,4 @@
-My React.js portfolio hosted <a href="bit.ly/TheoMcC">here</a>.
+The code behind my React.js portfolio hosted <a href="https://bit.ly/TheoMcC">here</a>.
 
 Credit to to CleverProgrammers and Tim Baker <a href='https://github.com/tbakerx/react-resume-template'>Original Repo</a>
 
