@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name": "Theo McCausland",
+    "occupation": "Developer",
+    "description": "Java and Javascript | Harvard CS50X Course Member | MA University of Cambridge",
+    "image": "linkedinflipped.JPG",
+    "bio": "My name is Theo, I'm a Developer in training. Here I post my web dev projects and links to my other platforms. Welcome!",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "trsmcc+codes@gmail.com",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "London",
+      "state": "UK",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/theo-mccausland/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/theotheories",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Cambridge",
+        "degree": "MA Natural Sciences",
+        "graduated": "2015",
+        "description": "2.1"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelance",
+        "title": "Developer",
+        "years": "July 2020 - Present",
+        "description": "Upskilling in Computer Science and building portfolio in Java and Javascript"
+      },
+      {
+        "company": "Cysure / Diegesis",
+        "title": "Junior Devloper",
+        "years": "Jan 2020 - Jul 2020",
+        "description": "Testing bespoke software and hardware, creating training materials, completing guided tasks."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "25%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "10%"
+      },
+      {
+        "name": "Git",
+        "level": "10%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Great attention to detail. Theo grew into the sharpest coder in the room.",
+        "user": "Mr Bloggs"
+      },
+      {
+        "text": "Theo must be one of the most brilliant developers I've ever met! It is amazing that he has not been snapped up at the moment. Hey you, you should hire this guy, he may be fresh in the field of software and have a small bit of on-the-job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
