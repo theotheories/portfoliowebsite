@@ -45,7 +45,7 @@
       {
         "school": "University of Cambridge",
         "degree": "MA Natural Sciences",
-        "graduated": "2015",
+        "graduated": "May 2018",
         "description": "2.1"
       }
     ],
@@ -65,50 +65,26 @@
     ],
     "skills": [
       {
+        "name": "ReactJs",
+        "level": "35%"
+      },
+      {
         "name": "Java",
         "level": "25%"
       },
       {
-        "name": "ReactJs",
-        "level": "10%"
-      },
-      {
         "name": "Git",
-        "level": "10%"
+        "level": "20%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
-      },
-      {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Amazon Full Stack Clone",
+        "category": "Ecommerce site using: React.js; Stripe credit card payment processing; Firebase Authentication, Database, Functions and Hosting; real time database managing order history; Axios; HTML, CSS and React Context API. ",
+        "image": "amazon-fullstack-theo.jpg",
+        "url": "https://bit.ly/TheoAmazonFullstack"
       }
     ]
   },
