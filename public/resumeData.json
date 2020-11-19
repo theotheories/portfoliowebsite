@@ -40,7 +40,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "",
     "education": [
       {
         "school": "University of Cambridge",
@@ -65,12 +65,21 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "React.js",
         "level": "35%"
       },
       {
+      "name": "HTML",
+      "level": "30%"
+    },
+      {
+      
+        "name": "CSS",
+        "level": "30%"
+      },
+      {
         "name": "Java",
-        "level": "25%"
+        "level": "30%"
       },
       {
         "name": "Git",
